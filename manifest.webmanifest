@@ -1,0 +1,12 @@
+{
+  "name": "Dodge",
+  "short_name": "Dodge",
+  "id": "com.example.gamename",
+  "description": "you have to dodge the box spawning at you",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
